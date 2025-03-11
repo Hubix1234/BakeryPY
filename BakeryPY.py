@@ -31,13 +31,7 @@ generate_bakery()
 #eklerka
 
 
-def Sigma_eklerka(a):
-    eklerka = "sigma"
-    print("Eklerka to Sigma")
-    print(f"Aura eklerki: {a + 100000000000000000000000000000000000000}")
-    return eklerka
 
-Sigma_eklerka(10000)
 
 
 eklerka12 = 12
