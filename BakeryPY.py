@@ -30,9 +30,41 @@ generate_bakery()
 
 #eklerka
 
-
-
-
-
 eklerka12 = 12
+
+
+class Eklerka:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+    def Create_Eklerka(self, weigth):
+        self.x = weight
+        print("*" * weight)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
